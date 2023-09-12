@@ -23,7 +23,7 @@ Data engineering project using Data Lake Gen2, Data Factory, Databricks (PySpark
     Workspace configuration
   </summary>
   1. Under workspace, add the repository you created on your version control platform to sync it with Databricks. <br>
-  2. 
+  2. Click the compute icon and start creating an all-purpose cluster. Change the name of the cluster at the top. Leave the policy as unrestricted so you can manually configure your cluster according to your needs. 
 </details>
 
 <details>
