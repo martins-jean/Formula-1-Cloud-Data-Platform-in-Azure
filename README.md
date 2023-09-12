@@ -22,6 +22,7 @@ Data engineering project using Data Lake Gen2, Data Factory, Databricks (PySpark
   <summary>
     
   </summary>
+  1. Access the Data Engineering environment. 
 </details>
 
 <details>
