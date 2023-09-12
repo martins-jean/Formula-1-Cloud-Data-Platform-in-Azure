@@ -12,7 +12,8 @@ Data engineering project using Data Lake Gen2, Data Factory, Databricks (PySpark
 
 <details>
   <summary>
-    **1. Required setup**
+    Required setup
   </summary>
+  1. Create an Azure Databricks service in the Azure portal.
 </details>
 
