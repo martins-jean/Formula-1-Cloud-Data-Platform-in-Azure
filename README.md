@@ -1,6 +1,6 @@
 # Formula 1 Cloud Data Platform in Azure
 
-Data engineering project using Data Lake Gen2, Data Factory and Databricks with PySpark and SQL.
+Data engineering project using Data Lake Gen2, Data Factory and Databricks with PySpark and Spark SQL.
 
 ## Architecture Diagram
 
