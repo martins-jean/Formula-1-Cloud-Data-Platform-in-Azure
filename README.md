@@ -15,7 +15,7 @@ Data engineering project using Data Lake Gen2, Data Factory, Databricks (PySpark
     Required setup
   </summary>
   1. Create a premium tier Azure Databricks service in the Azure portal. If you want the workspace to be created within your own Vnet, you can specify that under the networking configurations. If you want double encryption, the premium tier allows you to enable infrastructure encryption under the advanced tab. You can then add any tags for later identification and billing purposes. Review and create the resource, it should take around five minutes for the deployment to be complete. <br>
-  2. 
+  2. Navigate to the resource page, pin the service to a new dashboard so you can easily access all the resources linked to this project later. Once that's done, go ahead and launch your Databricks workspace.
 </details>
 
 <details>
