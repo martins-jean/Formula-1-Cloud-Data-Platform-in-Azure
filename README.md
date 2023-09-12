@@ -14,7 +14,7 @@ Data engineering project using Data Lake Gen2, Data Factory, Databricks (PySpark
   <summary>
     Required setup
   </summary>
-  1. Create a premium-tier Azure Databricks service in the Azure portal.
+  1. Create a Premium Tier Azure Databricks service in the Azure portal. If you want the workspace to be created within your own Vnet, you can specify that under the networking confirgurations. <br>
   2. 
 </details>
 
