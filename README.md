@@ -14,6 +14,30 @@ Data engineering project using Data Lake Gen2, Data Factory, Databricks (PySpark
   <summary>
     Required setup
   </summary>
-  1. Create an Azure Databricks service in the Azure portal.
+  1. Create an Azure Databricks service in the Azure portal. Choose the premium tier in order to enable Unity Catalog.
+  2. 
 </details>
 
+<details>
+  <summary>
+    
+  </summary>
+</details>
+
+<details>
+  <summary>
+    
+  </summary>
+</details>
+
+<details>
+  <summary>
+    
+  </summary>
+</details>
+
+<details>
+  <summary>
+    
+  </summary>
+</details>
